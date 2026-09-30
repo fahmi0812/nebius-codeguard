@@ -8,7 +8,7 @@
 - [x] Working project using Nebius Token Factory + ≥1 NVIDIA open model (Nemotron) — verified live 30 Sep 2026
 - [ ] Track selected on Devpost: Coding and Agentic Engineering
 - [x] Project description drafted — `docs/DEVPOST_DESCRIPTION.md`
-- [ ] Working demo / test build link (e.g. public repo with setup instructions; confirm what the track accepts)
+- [x] Working demo / test build link (e.g. public repo with setup instructions; confirm what the track accepts)
 - [x] Demo video ≤ 3 minutes with audio covering Token Factory + Nemotron — `demo/codeguard_demo.mp4` (local)
 - [ ] Demo video uploaded to YouTube (public/unlisted) and link added
 - [ ] Public code repository with MIT license visible at the top + README setup

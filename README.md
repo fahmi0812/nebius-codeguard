@@ -1,5 +1,7 @@
 # Nebius CodeGuard
 
+**Demo video (2:44):** https://youtu.be/EucLwN5bQ7s
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Track](https://img.shields.io/badge/track-Coding%20%26%20Agentic%20Engineering-76b900)
