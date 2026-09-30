@@ -1,0 +1,29 @@
+# secrets & local env
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# private / non-public material
+drive-pack/
+private-notes/
+
+# demo intermediates (recordings, voice, frames) and the rendered video (published separately)
+demo/raw/
+demo/*.mp4
+demo/*.wav
+
+# misc
+.DS_Store
+*.log
+tmp/
