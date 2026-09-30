@@ -4,8 +4,8 @@
 **Tagline:** A coding agent that must prove its code in a Nebius sandbox before it ships.
 **Track:** Coding and Agentic Engineering
 **Hackathon:** Nebius × NVIDIA Global AI Hackathon
-**Repository:** github.com/kuker24/nebius-codeguard *(placeholder — publish before submitting)*
-**Demo video:** *(YouTube link — add after upload)*
+**Repository:** https://github.com/kuker24/nebius-codeguard
+**Demo video:** https://youtu.be/EucLwN5bQ7s
 
 ---
 
@@ -101,7 +101,7 @@ its failing test, and an `eval`-based calculator was rejected before it ever rea
 - OpenAI Python SDK
 - Typer, Rich, pytest *(supporting libraries)*
 
-## Feedback on Nebius and NVIDIA tools (draft — edit before submitting)
+## Feedback on Nebius and NVIDIA tools
 
 - **Token Factory inference:** the OpenAI-compatible API meant zero custom client code; Nemotron 3 Nano responded
   quickly and followed the "single code fence" contract reliably.
